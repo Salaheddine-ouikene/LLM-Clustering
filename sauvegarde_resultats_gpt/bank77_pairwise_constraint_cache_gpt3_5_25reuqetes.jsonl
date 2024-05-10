@@ -1,0 +1,64 @@
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "If my transfer is from Europe how long will it take?", "context2": "Approximately how long will an urgent transfer from China take?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "If my transfer is from Europe how long will it take?", "context2": "How long does it take for a transfer?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "If my transfer is from Europe how long will it take?", "context2": "How long does it take for a transfer to get to a recipient?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "If my transfer is from Europe how long will it take?", "context2": "how long do money transfers take?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "If my transfer is from Europe how long will it take?", "context2": "How long will it take to deliver something to US?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "If my transfer is from Europe how long will it take?", "context2": "What's the U.S. Delivery time?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "If my transfer is from Europe how long will it take?", "context2": "Whats the delivery time to the United States?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "If my transfer is from Europe how long will it take?", "context2": "how soon will I see the transfer in my account?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "If my transfer is from Europe how long will it take?", "context2": "When will a transfer reach my account?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "If my transfer is from Europe how long will it take?", "context2": "When should I expect to see my transfer hit my account?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "If my transfer is from Europe how long will it take?", "context2": "Do you accept exchanges to EUR?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "If my transfer is from Europe how long will it take?", "context2": "Can I exchange to EUR?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "If my transfer is from Europe how long will it take?", "context2": "Do you support the exchange of EUR from my currency."}
+{"labels": [true, true, true, true, true], "p_true": 1.0, "context1": "Where is my deposit?", "context2": "Where is my money? I transfered it and it isn't in my account."}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "Where is my deposit?", "context2": "I didn't get the money I transferred"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "Where is my deposit?", "context2": "The refund has not appeared in my account"}
+{"labels": [true, true, true, true, true], "p_true": 1.0, "context1": "Where is my deposit?", "context2": "The refund isn't showing up on my account."}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I'm not familiar with a card payment.", "context2": "What credit cards are supported?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I'm not familiar with a card payment.", "context2": "What is the charge for a physical card?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I'm not familiar with a card payment.", "context2": "Is there a charge for physical cards"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I'm not familiar with a card payment.", "context2": "What fees apply when using a card?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I'm not familiar with a card payment.", "context2": "How can I get additional cards?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I'm not familiar with a card payment.", "context2": "How many disposable virtual cards can I have?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I'm not familiar with a card payment.", "context2": "Can I purchase extra non-virtual cards?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I'm not familiar with a card payment.", "context2": "How do you get a virtual card?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I'm not familiar with a card payment.", "context2": "how do i get a virtual card?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I'm not familiar with a card payment.", "context2": "Where can I get a virtual card?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I'm not familiar with a card payment.", "context2": "What places can I use my card?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I'm not familiar with a card payment.", "context2": "At which ATMs can I use this card?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I'm not familiar with a card payment.", "context2": "Where can I use this card at an ATM?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "Are US credit cards accepted?", "context2": "Can I get a card despite the fact I'm not in the UK?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "Are US credit cards accepted?", "context2": "Do you do Visa or Mastercard?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "Are US credit cards accepted?", "context2": "May I choose between Visa and Mastercard?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "Are US credit cards accepted?", "context2": "Do I get a choice between Visa and Mastercard?"}
+{"labels": [true, true, true, true, true], "p_true": 1.0, "context1": "Are US credit cards accepted?", "context2": "What credit cards are supported?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "What locations are you in?", "context2": "Help me locate the nearest ATM."}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "What locations are you in?", "context2": "What countries do you do business in?"}
+{"labels": [true, true, true, true, true], "p_true": 1.0, "context1": "What locations are you in?", "context2": "What are the countries you operate in."}
+{"labels": [true, true, true, true, true], "p_true": 1.0, "context1": "I am attempting to make a purchase online, but my card is not working.  I know there are funds available, is this an issue on the banks end?", "context2": "I tried using my card and it kept getting declined, Why?"}
+{"labels": [true, true, true, true, true], "p_true": 1.0, "context1": "I am attempting to make a purchase online, but my card is not working.  I know there are funds available, is this an issue on the banks end?", "context2": "My card is being declined for a purchase. I bought items before and the card worked. Do you know what the problem is?"}
+{"labels": [true, true, true, true, true], "p_true": 1.0, "context1": "I am attempting to make a purchase online, but my card is not working.  I know there are funds available, is this an issue on the banks end?", "context2": "Why has my card payment been declined?"}
+{"labels": [true, true, true, true, true], "p_true": 1.0, "context1": "I have no idea why my card payment did not work.", "context2": "I tried using my card and it kept getting declined, Why?"}
+{"labels": [true, true, true, true, true], "p_true": 1.0, "context1": "I have no idea why my card payment did not work.", "context2": "My card is being declined for a purchase. I bought items before and the card worked. Do you know what the problem is?"}
+{"labels": [true, true, true, true, true], "p_true": 1.0, "context1": "I have no idea why my card payment did not work.", "context2": "Why has my card payment been declined?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "Hi, i don't know what's going on i've just paid for my top up twice by accident can you help me get a refund please.", "context2": "The application reverted my top-up."}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "Hi, i don't know what's going on i've just paid for my top up twice by accident can you help me get a refund please.", "context2": "I think my top-up was cancelled."}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "Hi, i don't know what's going on i've just paid for my top up twice by accident can you help me get a refund please.", "context2": "has my top-up has been cancelled"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "Hi, i don't know what's going on i've just paid for my top up twice by accident can you help me get a refund please.", "context2": "My top-up has been cancelled."}
+{"labels": [true, true, true, true, true], "p_true": 1.0, "context1": "Hi, i don't know what's going on i've just paid for my top up twice by accident can you help me get a refund please.", "context2": "I would like a refund for something I bought"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I am not able to use the app since I forgot my phone at the hotel I was staying at.", "context2": "I can not get the app to know it is me."}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I am not able to use the app since I forgot my phone at the hotel I was staying at.", "context2": "My phone was stolen, what do I do?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I am not able to use the app since I forgot my phone at the hotel I was staying at.", "context2": "My phone was stolen"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I am not able to use the app since I forgot my phone at the hotel I was staying at.", "context2": "I've lost track of my phone or someone stole it."}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I am not able to use the app since I forgot my phone at the hotel I was staying at.", "context2": "How do I reset a forgotten passcode, please?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I am not able to use the app since I forgot my phone at the hotel I was staying at.", "context2": "I can't recall my passcode and need to reset it."}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I am not able to use the app since I forgot my phone at the hotel I was staying at.", "context2": "Can you tell me what to do to reset my passcode?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I am not able to use the app since I forgot my phone at the hotel I was staying at.", "context2": "My virtual card won't work."}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I am not able to use the app since I forgot my phone at the hotel I was staying at.", "context2": "My disposable virtual card will not work"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I am not able to use the app since I forgot my phone at the hotel I was staying at.", "context2": "My disposable virtual card is not working"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I am not able to use the app since I forgot my phone at the hotel I was staying at.", "context2": "Hey I want to buy some crypto but the app doesn't allow me to! What's the issue, I really want to exchange this"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I am not able to use the app since I forgot my phone at the hotel I was staying at.", "context2": "I want to buy cryptocurrency, but your app doesn't let me. Why?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I am not able to use the app since I forgot my phone at the hotel I was staying at.", "context2": "Can you please help me with this exchange?  I am trying to get crypto and the app won't let me."}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I want a card. What is the procedure?", "context2": "How do you get a virtual card?"}
+{"labels": [false, false, false, false, false], "p_true": 0.0, "context1": "I want a card. What is the procedure?", "context2": "Can I get a card despite the fact I'm not in the UK?"}
