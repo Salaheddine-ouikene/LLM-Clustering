@@ -12,7 +12,6 @@ from openai import OpenAI
 
 from .example_oracle import MaximumQueriesExceeded
 
-client_gpt4 = OpenAI(api_key= "ssk-proj-RvegHJVZMOLWTK2Shg31T3BlbkFJkSYW3YThOi5lToohgnNw")
 
 
 class TimeoutError(Exception):

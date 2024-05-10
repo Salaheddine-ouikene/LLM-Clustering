@@ -22,9 +22,7 @@ from cmvc.helper import invertDic
 from cmvc.metrics import pairwiseMetric, calcF1
 from cmvc.test_performance import cluster_test
 
-client = OpenAI(api_key= "sk-proj-Q5zoV9nSV1BJKMm1TIUDT3BlbkFJSWkwN2tlqKqa4LEdi3ZA")
 
-client_gpt4 = OpenAI(api_key= "sk-proj-RvegHJVZMOLWTK2Shg31T3BlbkFJkSYW3YThOi5lToohgnNw")
 
 
 

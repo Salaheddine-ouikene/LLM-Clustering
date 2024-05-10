@@ -25,7 +25,6 @@ from cmvc.test_performance import cluster_test
 
 ##----------- Utilisation de la vérsion 4.0 de GPT 
 
-client_gpt4 = OpenAI(api_key= "ssk-proj-RvegHJVZMOLWTK2Shg31T3BlbkFJkSYW3YThOi5lToohgnNw")
 
 
 class GPT4ExpansionClustering(KMeans):

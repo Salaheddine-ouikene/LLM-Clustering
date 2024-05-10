@@ -12,7 +12,6 @@ from openai import OpenAI
 
 from .example_oracle import MaximumQueriesExceeded
 
-client = OpenAI(api_key= "sk-proj-Q5zoV9nSV1BJKMm1TIUDT3BlbkFJSWkwN2tlqKqa4LEdi3ZA")
 
 
 class TimeoutError(Exception):
